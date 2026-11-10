@@ -21,17 +21,16 @@ const styles = {
     },
     title: {
         fontSize: '72px',
-        margingBottom: '20px'
+        marginBottom: '20px'
     },
     message: {
         fontSize: '18px',
-        margingBottom: '30px'
+        marginBottom: '30px'
     },
-    Link:{
-        textDecoration:'none',
+    link:{
+        textDecoration: 'none',
         color: '#007bff',
         fontWeight: 'bold'
     }
 }
-
 export default NoFoundPage
